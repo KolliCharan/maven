@@ -1,0 +1,6 @@
+tcs
+tech mahindra
+hcl
+accenture
+pega
+devops
