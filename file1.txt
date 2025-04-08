@@ -4,3 +4,8 @@ hcl
 accenture
 pega
 devops
+cognizant
+wipro
+tesla
+bank of america
+jp morgan and chasses co
